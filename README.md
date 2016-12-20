@@ -1,7 +1,7 @@
 # pychat
 
 
-The pychat at applicatin consists of two seperate code bases.
+The pychat applicatin consists of two seperate code bases.
 1) main.py is the kivy application which can be packaged into an apk for mobile install via
    the command buildozer android debug deploy run. This will use the local buildozer.spec file 
    to compile an apk in the local bin directory. This apk can be sent to and installed on any
